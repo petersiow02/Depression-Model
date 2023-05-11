@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import time
 import pickle
-import altair.vegalite.v4 as alt
+import altair as alt
 from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="Depression Model", page_icon=":snowflake:")
